@@ -1,4 +1,4 @@
-# Usage
+## Usage
 
 1. Clone this repository
 2. composer install`
