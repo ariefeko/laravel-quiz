@@ -1,11 +1,11 @@
 ## Usage
 
 1. Clone this repository
-2. composer install`
+2. `composer install`
 3. Create database
-3. cp .env.example .env`and set configuration to database
-4. php artisan migrate`
-5. php artisan db:seed``
+4. `cp .env.example .env` and set configuration to database
+5. `php artisan migrate`
+6. `php artisan db:seed`
 
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
